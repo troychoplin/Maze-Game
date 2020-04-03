@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+# MAZE GAME
 
-You can use the [editor on GitHub](https://github.com/troychoplin/Maze-Game/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Welcome to MazeGame! This game is a simple command-line program allowing users to navigate through a maze. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This file contains useful instructions on how to configure, run, and play MazeGame. 
 
-### Markdown
+## System Requirements(Description of Materials)
+* PC with Java Installation
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+  *If Java is not installed, download and install from <a href="https://www.java.com/en/download">here.</a>
 
-```markdown
-Syntax highlighted code block
+## Installation
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+## How To Play
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Troubleshooting
 
-### Jekyll Themes
+## Contributions
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/troychoplin/Maze-Game/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+## License
+</a>[MIT License](https://choosealicense.com/licenses/mit/)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
