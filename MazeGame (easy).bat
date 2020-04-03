@@ -1,0 +1,1 @@
+java -jar "MazeGame.jar" %data/easy.txt
