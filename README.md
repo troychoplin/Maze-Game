@@ -70,7 +70,7 @@ To play again, re-run the MazeGame bat file.
 ## Troubleshooting
 * If the bat file does not open correctly, ensure that Java is installed and up-to-date.
 
-* The bat file when only work with Windows PCs. If running Linux or Mac operating systems, the files must be compiled and executed manually. 
+* The bat file will only work with Windows PCs. If running Linux or Mac operating systems, the files must be compiled and executed manually. 
 
 ## Contributions
 The source code to MazeGame can be found <a href="https://github.com/troychoplin/Maze-Game">here</a>
