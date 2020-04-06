@@ -36,6 +36,7 @@ The game is over when you reach the goal.
 
 ### Step 1
 Run the .bat file to start the game. A command prompt containing the maze will open. 
+![Maze Game Map](https://github.com/troychoplin/Maze-Game/blob/master/easymap.PNG).
 
 ### Step 2
 You will be prompted to enter a desired move. In order to make a move type one of the following:
