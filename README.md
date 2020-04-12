@@ -5,8 +5,9 @@
 4. [How To Play](#htp)
 5. [Custom Maze Levels](#cml)
 6. [Troubleshooting](#ts)
-7. [Contributions](#ts)
-8. [License](#li)
+7. [Support Information](#supp)
+8. [Contributions](#ts)
+9. [License](#li)
 <br>
 <br> 
 
@@ -16,7 +17,7 @@
 Welcome to MazeGame! This game is a simple command-line program allowing users to navigate through a maze. 
 
 This file contains useful instructions on how to configure, run, and play MazeGame. 
-
+<br>
 ## System Requirements (Description of Materials) <a name="sr"></a> 
 * PC with updated Java installation
 
@@ -25,6 +26,7 @@ This file contains useful instructions on how to configure, run, and play MazeGa
 * Windows operating system
     
     * Required to execute the .bat game files
+<br>
 
 ## Installation <a name="install"></a> 
 * Download the game in ZIP format from <a href="https://github.com/troychoplin/Maze-Game/archive/master.zip">here.</a>
@@ -32,7 +34,7 @@ This file contains useful instructions on how to configure, run, and play MazeGa
 * Unzip the downloaded folder and extract to a specified location on your computer.
 
 * Run either "MazeGame(easy).bat" or "MazeGame(hard).bat" depending on the desired level of difficulty.
-
+<br>
 
 ## How To Play <a name="htp"></a> 
 
@@ -58,7 +60,7 @@ Run the .bat file to start the game. A command prompt containing the maze will o
 <img src="https://github.com/troychoplin/Maze-Game/blob/master/easymap.PNG?raw=true" alt="Maze Game Map">
 
 ### Step 2
-You will be prompted to enter a desired move. In order to make a move type one of the following:
+You will be prompted to enter a desired move. In order to make a move type one of the following and press ENTER:
  1. "up" or "u" to move one space up.
  ```java
 Please enter a move: u     //moves one space up
@@ -83,7 +85,7 @@ If you attempt to move outside of the game board or onto a blocked ("X") space, 
 After reaching the goal, the game will end and the total number of moves made will be displayed. 
 
 ### Step 5 
-To play again, re-run the MazeGame bat file.
+To play again, re-run the MazeGame bat file and try to minimie the number of moves made!
 
 ## Custom Maze Levels (Optional) <a name="cml"></a> 
 - Maze levels are text files containing a 39x19 grid of 1's and 0's. 
@@ -109,7 +111,7 @@ To play again, re-run the MazeGame bat file.
    * Save the file with the extension .bat instead of .txt to ensure that the program is runnable.
    * Ensure that the .bat file is located in the Maze Game folder.
    * Finally, simply run the .bat file to play the game with the new level!
-
+<br>
    
 ## Troubleshooting <a name="ts"></a> 
 * If the bat file does not open correctly, ensure that Java is installed and up-to-date.
@@ -117,14 +119,18 @@ To play again, re-run the MazeGame bat file.
 * The bat file will only work with Windows PCs. If running Linux or Mac operating systems, the files must be compiled and executed manually. 
 
 * Each game is winnable so if you have trouble reaching the goal, keep trying!
+<br>
 
+## Support Information <a name="supp"></a> 
+For any issues not covered here, contact me at:
+choplint@appstate.edu 
+<br>
 
 ## Contributions <a name="cs"></a> 
 * The source code to MazeGame can be found <a href="https://github.com/troychoplin/Maze-Game">here.</a>
 
 * Feel free to fork and make a pull request to offer contributions.
-
-
+<br>
 
 ## License <a name="li"></a>
 </a>[MIT License](https://choosealicense.com/licenses/mit/)
