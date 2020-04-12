@@ -38,7 +38,7 @@ The game is over when you reach the goal.
 Run the .bat file to start the game. A command prompt containing the maze will open. 
 
 
-![Maze Game Map](https://github.com/troychoplin/Maze-Game/blob/master/easymap.PNG?raw=true).
+<img src="https://github.com/troychoplin/Maze-Game/blob/master/easymap.PNG?raw=true" alt="Maze Game Map">
 
 ### Step 2
 You will be prompted to enter a desired move. In order to make a move type one of the following:
@@ -79,7 +79,7 @@ To play again, re-run the MazeGame bat file.
    * The game should be winnable!
    
 - See below for an example of the text file used to create the easy map.
-![Maze Game Level File](https://github.com/troychoplin/Maze-Game/blob/master/Maze%20Game%20Level%20File.png?raw=true).
+<img src="https://github.com/troychoplin/Maze-Game/blob/master/Maze%20Game%20Level%20File.png?raw=true" alt="Maze Game Text File">
    
 
 ## Troubleshooting
