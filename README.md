@@ -6,7 +6,7 @@
 5. [Custom Maze Levels](#cml)
 6. [Troubleshooting](#ts)
 7. [Support Information](#supp)
-8. [Contributions](#ts)
+8. [Contributions](#cs)
 9. [License](#li)
 <br>
 <br> 
