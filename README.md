@@ -33,7 +33,7 @@ This file contains useful instructions on how to configure, run, and play MazeGa
 
 * Unzip the downloaded folder and extract to a specified location on your computer.
 
-* Run either "MazeGame(easy).bat" or "MazeGame(hard).bat" depending on the desired level of difficulty.
+* To start the game, run either "MazeGame(easy).bat" or "MazeGame(hard).bat" depending on the desired level of difficulty.
 <br>
 
 ## How To Play <a name="htp"></a> 
@@ -94,6 +94,7 @@ To play again, re-run the MazeGame bat file and try to minimie the number of mov
 - Create custom maze levels by creating a text file containing 19 rows and 39 columns of 1's and 0's.
    * Include a "S" somewhere on the grid to mark the starting position.
    * Include a "G" somewhere on the grid to mark the goal position. 
+   * These special markers will take the place of an open or blocked space.
 - When creating custom levels, be sure to consider the path the player must take to reach the goal. 
    * The game should be winnable!
    
@@ -117,6 +118,8 @@ To play again, re-run the MazeGame bat file and try to minimie the number of mov
 * If the bat file does not open correctly, ensure that Java is installed and up-to-date.
 
 * The bat file will only work with Windows PCs. If running Linux or Mac operating systems, the files must be compiled and executed manually. 
+
+* If the game fails to load a custom level, ensure that the text file contains exactly 19 rows and 39 columns, and that it    includes a "S" and a "G" for the start and goal position, respectively.
 
 * Each game is winnable so if you have trouble reaching the goal, keep trying!
 <br>
