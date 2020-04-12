@@ -79,9 +79,21 @@ To play again, re-run the MazeGame bat file.
    * The game should be winnable!
    
 - See below for an example of the text file used to create the easy map.
-<img src="https://github.com/troychoplin/Maze-Game/blob/master/Maze%20Game%20Level%20File.png?raw=true" alt="Maze Game Text File">
+   <img src="https://github.com/troychoplin/Maze-Game/blob/master/Maze%20Game%20Level%20File.png?raw=true" alt="Maze Game Text File">
    
+- To install and use the custom level: 
+   * First, save the newly-created text file to the data folder found in the Maze Game folder.
+   * Create another new text file, and type the following in the file: 
+        
+   <img src="https://github.com/troychoplin/Maze-Game/blob/master/Custom%20level%20bat%20file.png?raw=true" alt="Maze Game Custom BatFile">
+   
+   * NOTE: Replace FILENAME with the name of the created text file.
+   
+   * Save the file with the extension .bat instead of .txt to ensure that the program is runnable.
+   * Ensure that the .bat file is located in the Maze Game folder.
+   * Finally, simply run the .bat file to play the game with the new level!
 
+   
 ## Troubleshooting
 * If the bat file does not open correctly, ensure that Java is installed and up-to-date.
 
