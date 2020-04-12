@@ -1,5 +1,5 @@
 # Table of Contents
-1. [Introduction](#introduction)
+1. [Introduction](#in)
 2. [System Requirements](#sr)
 3. [Installation](#install)  
 4. [How To Play](#htp)
@@ -12,7 +12,7 @@
 <br> 
 
 
-# MAZE GAME <a name="introduction"></a> 
+# MAZE GAME <a name="in"></a> 
 
 Welcome to MazeGame! This game is a simple command-line program allowing users to navigate through a maze. 
 
