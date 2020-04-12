@@ -7,14 +7,14 @@ This file contains useful instructions on how to configure, run, and play MazeGa
 ## System Requirements (Description of Materials)
 * PC with updated Java Installation
 
-   If Java is not installed, download and install from <a href="https://www.java.com/en/download">here.</a>
+   * If Java is not installed, download and install from <a href="https://www.java.com/en/download">here.</a>
 
 ## Installation
 * Download the game in ZIP format from <a href="https://github.com/troychoplin/Maze-Game/archive/master.zip">here.</a>
 
--Unzip the downloaded folder and extract to a specified location on your computer.
+* Unzip the downloaded folder and extract to a specified location on your computer.
 
--Run either "MazeGame(easy).bat" or "MazeGame(hard).bat" depending on the desired level of difficulty.
+* Run either "MazeGame(easy).bat" or "MazeGame(hard).bat" depending on the desired level of difficulty.
 
 
 ## How To Play
@@ -68,15 +68,34 @@ After reaching the goal, the game will end and the total number of moves made wi
 ### Step 5 
 To play again, re-run the MazeGame bat file.
 
-
+## Custom Maze Levels (Optional)
+- Maze levels are text files containing a 39x19 grid of 1's and 0's. 
+   * 1's represent blocked spaces
+   * 2's represent open spaces
+- Create custom maze levels by creating a text file containing 19 rows and 39 columns of 1's and 0's.
+   * Include a "S" somewhere on the grid to mark the starting position.
+   * Include a "G" somewhere on the grid to mark the goal position. 
+- When creating custom levels, be sure to consider the path the player must take to reach the goal. 
+   * The game should be winnable!
+   
+- See below for an example of the text file used to create the easy map.
+![Maze Game Level File](https://github.com/troychoplin/Maze-Game/blob/master/Maze%20Game%20Level%20File.png).
+   
 
 ## Troubleshooting
 * If the bat file does not open correctly, ensure that Java is installed and up-to-date.
 
 * The bat file will only work with Windows PCs. If running Linux or Mac operating systems, the files must be compiled and executed manually. 
 
+* Each game is winnable so if you have trouble reaching the goal, keep trying!
+
+
 ## Contributions
-The source code to MazeGame can be found <a href="https://github.com/troychoplin/Maze-Game">here</a>
+* The source code to MazeGame can be found <a href="https://github.com/troychoplin/Maze-Game">here.</a>
+
+* Feel free to fork and make a pull request to offer contributions.
+
+
 
 ## License
 </a>[MIT License](https://choosealicense.com/licenses/mit/)
