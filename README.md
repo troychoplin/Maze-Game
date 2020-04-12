@@ -1,15 +1,32 @@
-# MAZE GAME
+# Table of Contents
+1. [Introduction](#introduction)
+2. [System Requirements](#sr)
+3. [Installation](#install)  
+4. [How To Play](#htp)
+5. [Custom Maze Levels](#cml)
+6. [Troubleshooting](#ts)
+7. [Contributions](#ts)
+8. [License](#li)
+<br>
+<br> 
+
+
+# MAZE GAME <a name="introduction"></a> 
 
 Welcome to MazeGame! This game is a simple command-line program allowing users to navigate through a maze. 
 
 This file contains useful instructions on how to configure, run, and play MazeGame. 
 
-## System Requirements (Description of Materials)
-* PC with updated Java Installation
+## System Requirements (Description of Materials) <a name="sr"></a> 
+* PC with updated Java installation
 
    * If Java is not installed, download and install from <a href="https://www.java.com/en/download">here.</a>
+   
+* Windows operating system
+    
+    * Required to execute the .bat game files
 
-## Installation
+## Installation <a name="install"></a> 
 * Download the game in ZIP format from <a href="https://github.com/troychoplin/Maze-Game/archive/master.zip">here.</a>
 
 * Unzip the downloaded folder and extract to a specified location on your computer.
@@ -17,7 +34,7 @@ This file contains useful instructions on how to configure, run, and play MazeGa
 * Run either "MazeGame(easy).bat" or "MazeGame(hard).bat" depending on the desired level of difficulty.
 
 
-## How To Play
+## How To Play <a name="htp"></a> 
 
 ### Objective
 The objective of the game is to reach the goal.
@@ -68,7 +85,7 @@ After reaching the goal, the game will end and the total number of moves made wi
 ### Step 5 
 To play again, re-run the MazeGame bat file.
 
-## Custom Maze Levels (Optional)
+## Custom Maze Levels (Optional) <a name="cml"></a> 
 - Maze levels are text files containing a 39x19 grid of 1's and 0's. 
    * 1's represent blocked spaces
    * 2's represent open spaces
@@ -94,7 +111,7 @@ To play again, re-run the MazeGame bat file.
    * Finally, simply run the .bat file to play the game with the new level!
 
    
-## Troubleshooting
+## Troubleshooting <a name="ts"></a> 
 * If the bat file does not open correctly, ensure that Java is installed and up-to-date.
 
 * The bat file will only work with Windows PCs. If running Linux or Mac operating systems, the files must be compiled and executed manually. 
@@ -102,14 +119,14 @@ To play again, re-run the MazeGame bat file.
 * Each game is winnable so if you have trouble reaching the goal, keep trying!
 
 
-## Contributions
+## Contributions <a name="cs"></a> 
 * The source code to MazeGame can be found <a href="https://github.com/troychoplin/Maze-Game">here.</a>
 
 * Feel free to fork and make a pull request to offer contributions.
 
 
 
-## License
+## License <a name="li"></a>
 </a>[MIT License](https://choosealicense.com/licenses/mit/)
 
 
