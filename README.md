@@ -136,6 +136,6 @@ choplint@appstate.edu
 <br>
 
 ## License <a name="li"></a>
-</a>[MIT License](https://choosealicense.com/licenses/mit/)
+[MIT License](https://choosealicense.com/licenses/mit/)
 
 
