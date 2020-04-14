@@ -85,7 +85,7 @@ If you attempt to move outside of the game board or onto a blocked ("X") space, 
 After reaching the goal, the game will end and the total number of moves made will be displayed. 
 
 ### Step 5 
-To play again, re-run the MazeGame bat file and try to minimie the number of moves made!
+To play again, re-run the MazeGame bat file and try to minimize the number of moves made!
 
 ## Custom Maze Levels (Optional) <a name="cml"></a> 
 - Maze levels are text files containing a 39x19 grid of 1's and 0's. 
