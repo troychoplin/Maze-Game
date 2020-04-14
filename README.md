@@ -90,7 +90,7 @@ To play again, re-run the MazeGame bat file and try to minimize the number of mo
 ## Custom Maze Levels (Optional) <a name="cml"></a> 
 - Maze levels are text files containing a 39x19 grid of 1's and 0's. 
    * 1's represent blocked spaces
-   * 2's represent open spaces
+   * 0's represent open spaces
 - Create custom maze levels by creating a text file containing 19 rows and 39 columns of 1's and 0's.
    * Include a "S" somewhere on the grid to mark the starting position.
    * Include a "G" somewhere on the grid to mark the goal position. 
